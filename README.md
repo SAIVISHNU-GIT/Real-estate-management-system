@@ -9,18 +9,11 @@ The real of World Wide Web have spread across millions of household, so naturall
 Now days when everything is online, how is it possible that real estate left web application  behind. There are lots of real estate companies who advertise their property online so idea  behind developing this application is that their property can also sell, or buy rental property  using this. These applications are not widely popular but in future, they have large scope of  growth.
 This website is a online real estate management through which individual agents or buyer can  maintain their property document keeping and managing property registration and also access  its information and manage all the adding, updating, deleting the as and some of its tasks. The  Admin user can inform their agents for regarding to property and update the information  regarding property and cancellation of property or changing buyer choice.
 The system is very useful for the companies or builders that can post and edit their properties  and their personal info and admin can monitor records of all of them. The system is also useful  which also keeps track of Account details of buyers and Investors and also RES Industry.
-.
 Modules in the software  Admin Module
-![image](https://github.com/user-attachments/assets/00b363b3-7f4a-4b71-9275-b4c981df7785)
 1. Dashboard: In this section, admin can see all detail in brief like total property type, total  country, total state, total city, total agent, total owner, total buyer(user) ant total  property listed.
-2. 
-![image](https://github.com/user-attachments/assets/49eebd92-3267-4946-989d-67c51e037f41)
 5. Received Enquiries: Owner can view receive enquiries against his/her own listed  properties and also answer the enquiries.
 Answer Enquiries: Owner can views answer enquiries.
 Logout: Owner can logout from own account.
-![image](https://github.com/user-attachments/assets/f013223a-39da-497a-bb83-876f5db4fd3f)
-
-
 -> Change Password: Owner can change his/her own password.
 -> Logout: Owner can logout from own account.
 Agents Module
@@ -40,4 +33,3 @@ Answer Enquiries: Agents can views answer enquiries.
 Logout: Agents can logout from own account.
 ->Change Password: Agents can change his/her own password.
 ->Logout: Agents can logout from own account.
-![image](https://github.com/user-attachments/assets/99082b49-f624-41d7-a272-ce6ae6d06c02)
